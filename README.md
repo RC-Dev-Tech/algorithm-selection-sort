@@ -35,7 +35,7 @@
 ## 示意圖:
 <img src="https://drive.google.com/uc?id=1XYNU6b5xaAq1h6-F1ryeoQ_BFl-_rwLc" height="60%" width="60%"/>
 
-> 圖片來源：[iThome鐵人賽(Frank) - 演算法 選擇排序法Selection Sort](https://ithelp.ithome.com.tw/articles/10276719)
+> 圖片來源：[iThome鐵人賽(Frank) - 演算法 選擇排序法 Selection Sort](https://ithelp.ithome.com.tw/articles/10276719)
 
 ---
 
@@ -46,7 +46,7 @@
 
 ## 參考資料
 * [Wiki - Selection Sort](https://zh.wikipedia.org/wiki/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F) <br>
-* [iThome鐵人賽(Frank) - 演算法 選擇排序法Selection Sort](https://ithelp.ithome.com.tw/articles/10276719) <br>
+* [iThome鐵人賽(Frank) - 演算法 選擇排序法 Selection Sort](https://ithelp.ithome.com.tw/articles/10276719) <br>
 
 ---
 
